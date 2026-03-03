@@ -8,10 +8,10 @@ project("c-singly-list"
         DESCRIPTION ""
         LANGUAGES C
 )
-set(PROJECT_NAMESPACE c_singly_list CACHE STRING "The namespace the project is in")
-set(PROJECT_OUTPUT_NAME c-singly-list CACHE STRING "The base name that will be displayed on project output files")
-set(PROJECT_PACKAGE_NAME CSinglyList CACHE STRING "The name that will be displayed on CMake package related files")
-set(PROJECT_PRIMARY_TARGET c_singly_list)
+set(PROJECT_NAMESPACE singly_list CACHE STRING "The namespace the project is in")
+set(PROJECT_OUTPUT_NAME singly-list CACHE STRING "The base name that will be displayed on project output files")
+set(PROJECT_PACKAGE_NAME SinglyList CACHE STRING "The name that will be displayed on CMake package related files")
+set(PROJECT_PRIMARY_TARGET singly_list)
 
 # CMake Information
 cmake_file_api(
