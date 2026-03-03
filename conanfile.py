@@ -2,8 +2,8 @@ from conan import ConanFile
 from conan.tools.cmake import CMake, CMakeToolchain, CMakeDeps, cmake_layout
 from conan.tools.build import check_min_cppstd
 
-class CSinglyListFile(ConanFile):
-    name = "c_singly_list"
+class SinglyListFile(ConanFile):
+    name = "singly_list"
     version = "0.1.0"
     label = ""
 
