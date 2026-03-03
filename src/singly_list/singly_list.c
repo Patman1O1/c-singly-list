@@ -1,2 +1,2 @@
-#include <c_singly_list/c_singly_list.h>
+#include <singly_list/singly_list.h>
 
