@@ -1,5 +1,5 @@
-#ifndef C_SINGLY_LIST_H
-#define C_SINGLY_LIST_H
+#ifndef SINGLY_LIST_H
+#define SINGLY_LIST_H
 
 #ifdef __cplusplus
 extern "C" {
@@ -9,5 +9,5 @@ extern "C" {
 }
 #endif // #ifdef __cplusplus
 
-#endif // #ifndef C_SINGLY_LIST_H
+#endif // #ifndef SINGLY_LIST_H
 
